@@ -1,6 +1,4 @@
 
-$ mkdir ~/Hello-world
-
 Hello-world
 ===========
 #include<iostream>
@@ -15,6 +13,3 @@ int main()
 display();
 return 0;
 }
-$ cd ~/Hello-world
-$ git init
-$ touch README
