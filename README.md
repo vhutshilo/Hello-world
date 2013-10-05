@@ -1,4 +1,3 @@
-
 Hello-world
 ===========
 #include<iostream>
@@ -6,7 +5,7 @@ using namespace std;
 
 void display()
 {
-cout<<"Hello world"<<endl;
+cout<<"Good-bye world"<<endl;
 }
 int main()
 {
